@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RippleRecyclerView</string>
+    <string name="move_left_more">左滑查看更多</string>
+</resources>

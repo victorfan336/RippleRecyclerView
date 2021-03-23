@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RippleRecyclerView">
+        <attr name="ripple_marginTop" format="dimension"/>
+        <attr name="ripple_marginBottom" format="dimension"/>
+        <attr name="ripple_textSize" format="dimension"/>
+        <attr name="ripple_line_space" format="dimension"/>
+        <attr name="ripple_text" format="reference|string"/>
+        <attr name="ripple_bgColor" format="color"/>
+        <attr name="ripple_textColor" format="color"/>
+    </declare-styleable>
+</resources>
